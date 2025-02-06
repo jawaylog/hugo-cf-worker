@@ -9,16 +9,16 @@ PAGESIZE = 10
 
 [[kv_namespaces]]
 binding = "FARALLON"
-id = "2226d0bec61343958816707ecaae68e0"
+id = "902c4a30bd8f443aae918da62e3d0c90"
 
 [[r2_buckets]]
 binding = "MY_BUCKET"
-bucket_name = "fatesinger"
+bucket_name = "hugo-cf-worker"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "fatesinger"
-database_id = "47810e57-5d01-44e0-93a7-2950df88e9b2"
+database_name = "hugo-cf-worker"
+database_id = "91a8d4e1-af36-4579-93ea-c471bb823635"
 
 # [ai]
 # binding = "AI"
